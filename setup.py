@@ -20,5 +20,5 @@ setup(
                       'tensorflow-probability',
                       ],
     packages=find_packages(),
-    python_requires='>=3.8',
+    python_requires='>=3.7',
 )
